@@ -16,7 +16,6 @@ movimentos devem ocorrer sempre na horizontal ou na vertical. O jogo termina
 quando não é possível executar mais movimentos e, se nessa situação houver
 apenas uma peça no tabuleiro, o jogador terá vencido o jogo."
 
-A figura a seguir mostra a configuração inicial do jogo:
 
 ![Imagem ilustrativa da funcionalidade do jogo](https://i.pinimg.com/originals/3c/2c/a8/3c2ca84260ead6872ce0d52466f9cd89.gif)
 
