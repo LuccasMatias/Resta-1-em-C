@@ -1,4 +1,4 @@
-# Resta 1 em C pure
+# Resta 1 em C puro
 
 *Mini jogo criado como avaliação acadêmica da matéria "Construção de algorítmos"*
 
